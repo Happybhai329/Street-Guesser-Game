@@ -1,7 +1,8 @@
 const config = {
-    googleMapsApiKey: 'AIzaSyA8MMABXdv37oNlButaLgMedd-yLOGvYfA'
+    googleMapsApiKey: 'AIzaSyCeGO3J1ifnmPJqHOhXvjSXGzy75WIQDUc'
 };
 
 function getGoogleMapsApiKey() {
     return config.googleMapsApiKey;
+
 }
